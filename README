@@ -1,0 +1,4 @@
+On Mac:
+
+`brew install python-tk`
+`python3 run Notepad.py`
